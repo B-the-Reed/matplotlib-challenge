@@ -1,2 +1,6 @@
 # matplotlib-challenge
-Module 5 Challenge for UCB Data Analytics Boot Camp
+
+This repository contains my Matplotlib Challenge submission for Module 5 of the UCB Data Analytics Boot Camp. 
+
+- Open the pymaceutical_BRR_vFinal.ipynb file to review the code for the assignment. 
+- The data sources for the assignment are found in the data folder. The source of the data is https://mockaroo.com/ (2022). 
